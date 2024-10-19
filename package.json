@@ -1,0 +1,19 @@
+{
+  "name": "multiply",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "chai": "^4.2.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0",
+    "mocha": "^10.7.3"
+  }
+}
